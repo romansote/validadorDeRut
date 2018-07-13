@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class ValidadorDeRut {
 
-    int suma = 0;
+    int suma;
     int resto;
     int resultado;
     int multiplicacion;
